@@ -23,19 +23,19 @@ This plugin works with NeoVim v0.5 or later.
 -   [packer.nvim](https://github.com/wbthomason/packer.nvim)
 
 ``` lua
-use 'fedepujol/move.nvim'
+use 'ur4ltz/move.nvim'
 ```
 
 -   [vim-plug](https://github.com/junegunn/vim-plug)
 
 ``` vim
-Plug 'fedepujol/move.nvim'
+Plug 'ur4ltz/move.nvim'
 ```
 
 -   [paq](https://github.com/savq/paq-nvim)
 
 ``` lua
-'fedepujol/move.nvim';
+'ur4ltz/move.nvim';
 ```
 
 ## Usage
